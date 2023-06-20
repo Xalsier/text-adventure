@@ -1,0 +1,39 @@
+body {
+    background-color: black;
+    color: lime;
+    font-family: 'Courier New', monospace;
+}
+
+.console {
+    width: 80%;
+    height: 80vh;
+    margin: 0 auto;
+    overflow-y: auto;
+}
+
+.input-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+}
+
+.input-wrapper span {
+    color: lime;
+}
+
+.input-wrapper input {
+    background-color: black;
+    color: lime;
+    border: none;
+    outline: none;
+}
+
+#canvas {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  

@@ -1,0 +1,28 @@
+0:
+  text: "Intro text <br/>"
+  option_1: 1
+  option_2: 2
+1:
+  text: "Text if you select option 1."
+  option_1: 3
+  option_2: 4
+2:
+  text: "Text if you select option 2."
+  option_1: 5
+  option_2: 6
+3:
+  text: "Text if you select option 1 from option 1."
+  option_1: 7
+  option_2: 8
+4:
+  text: "Text if you select option 2 from option 1."
+  option_1: 9
+  option_2: 10
+5:
+  text: "Text if you select option 1 from option 2."
+  option_1: 11
+  option_2: 12
+6:
+  text: "Text if you select option 2 from option 2."
+  option_1: 13
+  option_2: 14
